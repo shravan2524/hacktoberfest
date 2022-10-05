@@ -9,13 +9,13 @@ int main(){
   // checkign if number is prime or not
   for(int i=2;i<sqrt(n);i++){
     if(n%i==0){
-      cout << " Not a prime number ";
+      cout << "No";
       flag = 0;
       break;
     }
   }
   if(flag){
-    cout << " Prime Number ";
+    cout << "Yes";
   }
   return 0; 
 }
