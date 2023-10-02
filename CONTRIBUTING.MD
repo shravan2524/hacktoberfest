@@ -18,7 +18,7 @@
 - [YourName](https://github.com/YourGitHubUsername)
 ```
  
-
+Ritika Lath - https://github.com/ritikalath30
 * Replace YourName with your name and YourGitHubUsername with your GitHub username.
 * Commit the changes.
 * Push the changes to the forked repo.
